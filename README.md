@@ -1,2 +1,2 @@
 # USB-UART
-industrial 
+industrial grade USB to UART converter
