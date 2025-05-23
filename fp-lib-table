@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_USB_gk")(type "KiCad")(uri "G:/Mój dysk/workspace/KiCad_Libs/Connector_USB_gk.pretty")(options "")(descr ""))
+)
